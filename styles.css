@@ -4,6 +4,12 @@ body {
 	font-family: 'Padauk', sans-serif;
 }
 
+img {
+	border: 1px solid #565656;
+	border-radius: 100%;
+	max-width: 100px;
+}
+
 h2 {
 	font-family: 'Noto Serif', serif;
 	color: #76323F;
