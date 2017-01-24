@@ -1,0 +1,51 @@
+body {
+	background-color: #D7CEC7;
+	color: #565656;
+	font-family: 'Padauk', sans-serif;
+}
+
+h2 {
+	font-family: 'Noto Serif', serif;
+	color: #76323F;
+}
+
+.container {
+	padding-right: 150px;
+}
+
+.bigContainer {
+	margin-bottom: 50px;
+	padding-left: 175px;
+}
+
+h5 {
+	font-size: 1.2em;
+}
+
+span, .jobTitle {
+	font-weight: bold;
+}
+
+p {
+	margin: 0;
+}
+
+.jobPlaceTime {
+	font-size: 1.2em;
+}
+
+.jobTime {
+    text-align: right;
+}
+
+.workplaceDesc {
+	font-style: italic;
+}
+
+ul {
+	padding-left: 0;
+}
+
+h4 {
+	text-transform: uppercase;
+}
